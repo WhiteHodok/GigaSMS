@@ -1,3 +1,6 @@
+# FULLY DEPRECATED / БОЛЬШЕ НЕ ПОДДЕРЖИВАЕТСЯ / НЕ РАБОТАЕТ / NOT WORKING 
+
+
 # GigaSMS
 ![final](https://github.com/WhiteHodok/GigaSMS/assets/39564937/4a6d446d-4846-4c37-9c69-edf2c9aa1f33)
 
@@ -30,5 +33,7 @@
 # Установка библиотек
 pip install -r requirements.txt
 
-py bot.py
+python bot.py
+
+
 
